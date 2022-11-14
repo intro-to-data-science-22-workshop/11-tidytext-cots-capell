@@ -17,8 +17,8 @@ The goals of this session are to (1) equip you with conceptual knowledge about t
 
 ## Instructors
 
-- Júlia Cots-Capell ([website](https://github.com/juliacotscapell/), ([e-mail](j.cots-capell@students.hertie-school.org)
-- Viktorija Ruzelyte ([website](https://github.com/viktorijaruzelyte/), ([e-mail]v.ruzelyte@students.hertie-school.org)
+- Júlia Cots-Capell ([website](https://github.com/juliacotscapell/), (j.cots-capell@students.hertie-school.org)
+- Viktorija Ruzelyte ([website](https://github.com/viktorijaruzelyte/), (v.ruzelyte@students.hertie-school.org)
 
 
 ## Further resources
