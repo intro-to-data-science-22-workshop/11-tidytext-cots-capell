@@ -12,7 +12,7 @@ This session will introduce you to the R package **tidytext**. This package will
 
 ### Main learning objectives
 
-The goals of this session are to (1) equip you with conceptual knowledge about the tidytext package, (2) show you the key features of the package, (3) provide you with an understanding of the most important functions within the package, and (4) provide you with practice material. 
+The goals of this session are to (1) equip you with conceptual knowledge about the tidytext package, (2) show you the key features of the package, (3) provide you with an understanding of the most important functions within the package, and (4) work with you on practice materials which might be relevant for our future use as policy experts. 
 
 
 ## Instructors
