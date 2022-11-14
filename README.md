@@ -30,4 +30,4 @@ The goals of this session are to (1) equip you with conceptual knowledge about t
 
 ## Statement of contributions
 
-**Júlia Cots Capell** and **Viktorija Ruzelyte** worked collaboritavely in the preparation of the pre-recorded presentation (R commands, slides, recording and video editing), as well as on the elaboration of the practise materials (design and development of the example).
+**Júlia Cots Capell** and **Viktorija Ruzelyte** worked collaboritavely in the preparation of the pre-recorded presentation (.Rmd file, slides, recording and video editing), as well as on the elaboration of the practise materials (design and development of the example).
